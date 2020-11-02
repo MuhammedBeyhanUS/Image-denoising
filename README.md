@@ -1,4 +1,4 @@
-# Image Denoising
+# Image Noising and Denoising
 This is repository is made for image processing.
 It uses same image to get n(100) images and takes avarege of  that n(100) images. 
 As a result we it obtain a denoised image.
